@@ -5,15 +5,25 @@
 ## Task 1: Deploy the following stack on your PC:
 
 --BackEnd
+
 *Node.js*
+
 *TypeScript*
+
 *Express.js*
+
 *PostgreSQL database*
+
 *Prisma ORM*
+
 --FrontEnd
+
 *Vue.js (3)*
+
 *Axios*
+
 *Styles: SCSS, BEM*
+
 
 ## Task 2: Viewing and editing restaurant menus via the web interface.
 
@@ -30,6 +40,7 @@
 ## Task 3: It is necessary to solve the problem below and provide the progress of the solution in the form of a photo.
 
 [Photo task]()
+
 [Completed task]()
 
 ## Technologies: 
