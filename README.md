@@ -47,7 +47,7 @@
 
 ## Task 3: It is necessary to solve the problem below and provide the progress of the solution in the form of a photo.
 
-[Photo task]()
+[Photo task](https://drive.google.com/file/d/1slDTOHVTuXQCzC8WiKa4r8V3MAlnTY4a/view?usp=sharing)
 
 [Completed task]()
 
