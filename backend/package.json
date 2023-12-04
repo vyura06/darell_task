@@ -1,0 +1,33 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx ts-node src/index.ts",
+    "lint": "npx tslint src/**/*.ts --fix",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^5.6.0",
+    "@types/is-image": "^3.0.0",
+    "@types/node": "^20.10.3",
+    "express": "^4.18.2",
+    "express-form-data": "^2.0.22",
+    "is-image": "^4.0.0",
+    "multer": "^1.4.5-lts.1",
+    "typescript": "^5.3.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.14",
+    "@types/multer": "^1.4.7",
+    "prettier": "^2.7.1",
+    "prisma": "^5.6.0",
+    "ts-node": "^10.9.1",
+    "tslint": "^6.1.3",
+    "tslint-plugin-prettier": "^2.3.0"
+  }
+}

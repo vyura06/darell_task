@@ -1,0 +1,26 @@
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Section {
+  id   Int    @id @default(autoincrement())
+  htmlId String @unique
+  name String
+  Dish Dish[]
+}
+
+model Dish {
+  id        Int     @id @default(autoincrement())
+  price     Int  
+  description String
+  img String
+  name      String
+  section   Section @relation(fields: [sectionId], references: [id])
+  sectionId Int
+}
