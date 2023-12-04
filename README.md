@@ -1,10 +1,10 @@
-## A test assignment from the Darall company.
+# A test assignment from the Darall company.
 
 [Task](https://docs.google.com/document/d/1IKoTgItkxcqrkMtWYrJGMh4rISCCvi_pLEbXmY7zpto/edit?usp=sharing)
 
 ## Task 1: Deploy the following stack on your PC:
 
-# BackEnd
+### BackEnd
 
 *Node.js*
 
@@ -16,7 +16,7 @@
 
 *Prisma ORM*
 
-# FrontEnd
+### FrontEnd
 
 *Vue.js (3)*
 
