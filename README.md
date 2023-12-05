@@ -49,7 +49,7 @@
 
 [Photo task](https://drive.google.com/file/d/1slDTOHVTuXQCzC8WiKa4r8V3MAlnTY4a/view?usp=sharing)
 
-[Completed task]()
+[Completed task](https://drive.google.com/file/d/1m3XGfQpG9TbMM3ZJ4L2sX7z0RVp3-IR6/view?usp=sharing)
 
 ## Technologies: 
 
